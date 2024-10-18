@@ -1,4 +1,4 @@
-MENU = {
+menu = {
     "espresso": {
         "skladniki": {
             "woda": 50,
@@ -25,7 +25,7 @@ MENU = {
     }
 }
 
-zasoby = {
+resources = {
     "woda": 500,
     "mleko": 500,
     "kawa": 1000,
